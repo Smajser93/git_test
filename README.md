@@ -1,0 +1,1 @@
+This is Smajser93's first ( I hope not only ) git project!
